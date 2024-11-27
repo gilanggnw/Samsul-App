@@ -3,7 +3,7 @@
     <!-- Title and Subtitle Section -->
     <div class="service-header">
       <h1>Services by SAMSUL</h1>
-      <p class="subtitle">Pick your service from the list below</p>
+      <p class="subtitle">Pilih layanan yang ingin anda gunakan</p>
     </div>
 
     <!-- Service Grid Section (3x3 grid of services) -->

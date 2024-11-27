@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div class="footer-content">
-      <p>&copy; 2024 SAMSUL Emission Monitoring System. All rights reserved.</p>
+      <p>SAMSUL Emission Monitoring System.</p>
     </div>
   </footer>
 </template>
